@@ -1,5 +1,5 @@
 # The-2048-Game
-This game is a console-based implementation of the popular puzzle game which was released in 2014.The game 
+This game is a console-based implementation of the popular puzzle game which was released in 2014. The game 
 begins with an empty 4x4 board, and the player's goal is to reach the tile with the value of 2048 by combining 
 adjacent tiles of the same value.
 
